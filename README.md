@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diazjhozua
-- 👀 I’m interested in full stack web developing, android dev.
-- 🌱 I’m currently learning android dev
-- 💞️ I’m looking to collaborate on android gaming projects
+- 👀 I’m interested in full stack web developing, mobile dev.
+- 🌱 I’m currently learning react native and asp.net MVC
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me please email me diaz.jhozua@gmail.com
 
 <!---
