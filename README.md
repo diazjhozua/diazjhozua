@@ -10,15 +10,15 @@
   <a href="https:// " target="_blank">
     <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycendc&theme=dark&hide=%20script&langs_count=7"
-         alt="Joycen's Used Languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=diazjhozua&theme=dark&hide=%20script&langs_count=7"
+         alt="Jhozua's Used Languages"
     />
   </a>
   <a href="https:// " target="_blank">
     <img
          align="center"
-         src="https://github-readme-stats.vercel.app/api?username=joycendc&theme=dark&show_icons=true&count_private=true"
-         alt="Joycen's GitHub Stats"
+         src="https://github-readme-stats.vercel.app/api?username=diazjhozua&theme=dark&show_icons=true&count_private=true"
+         alt="Jhozua's GitHub Stats"
     />
   </a>
 </div>
